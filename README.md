@@ -2,7 +2,7 @@
 
 This has been SQL projects I havde been working on, this project explores top-paying, in-demand skills, and where high demand meets high salary in data analytics
 
-Fore more? Check then out here: [project_sql folder](/project_sql/)
+Fore more? Check then out here: [project_sql folder](/project_sql)
 # Background 
 I love working on data, this very project was done during my journy of learning SQL.
 
